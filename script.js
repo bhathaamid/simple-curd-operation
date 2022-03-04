@@ -9,7 +9,7 @@ function onFormSubmit() {
   }
   resetForm();
 }
-// redskfjldskls;d
+
 // Reteieve the data
 function readFormData() {
   var formData = {};
